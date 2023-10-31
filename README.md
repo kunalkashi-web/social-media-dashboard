@@ -1,4 +1,5 @@
-![active-states-light](https://github.com/kunalkashi-web/social-media-dashboard/assets/138725519/48b17b84-e8ae-4bfa-8eab-fc3255187c35)
+#Frontend Mentor - social media dashboard
+![desktop-preview](https://github.com/kunalkashi-web/social-media-dashboard/assets/138725519/88d4036c-666a-4538-8988-6d14aebfe43c)
 
 challenge completed as part of practicing HTML, CSS, and JavaScript.
 
